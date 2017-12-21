@@ -27,5 +27,5 @@ DISTFILES +=     qpm.json     \
 HEADERS +=     tests.h
 
 !win32 {
-    QMAKE_CXXFLAGS += -Werror
+#    QMAKE_CXXFLAGS += -Werror
 }

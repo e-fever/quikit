@@ -1,6 +1,5 @@
 #include <QtQml>
 #include "qmlfilelistmodel.h"
-#include "qmlshell.h"
 #include "boardpositionattachedtype.h"
 
 using namespace QUIKit;

@@ -19,7 +19,10 @@ include($$ROOTDIR/quikit.pri)
 DISTFILES +=     qpm.json     \
     ../../README.md \
     qmltests/tst_BoardLayout.qml \
-    qmltests/tst_NameTag.qml
+    qmltests/tst_NameTag.qml \
+    ../../qpm.json \
+    qmltests/tst_QmlFileListModel.qml \
+    qmltests/TestUtils.qml
 
 HEADERS +=     tests.h
 

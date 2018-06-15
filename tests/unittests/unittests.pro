@@ -21,6 +21,7 @@ DISTFILES +=     qpm.json     \
     qmltests/tst_BoardLayout.qml \
     qmltests/tst_NameTag.qml \
     ../../qpm.json \
+    ../../appveyor.yml \
     qmltests/tst_QmlFileListModel.qml \
     qmltests/TestUtils.qml
 
